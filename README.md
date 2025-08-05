@@ -8,7 +8,7 @@ The dashboard provides **actionable insights** for stakeholders by visualizing p
 
 ## 📊 Dashboard Overview  
 
-![Hotel Dashboard](666da50d-8d0c-4e87-ad10-e07ac7b6e5a6.png)  
+![Hotel Dashboard](gif/Hospitality.gif)  
 
 **Key Dashboard Sections:**  
 - **KPI Cards:** Revenue, Occupancy %, ADR, DSRN, Realization % (with WoW change)  
